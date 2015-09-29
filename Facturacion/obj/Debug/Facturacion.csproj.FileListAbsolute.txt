@@ -1,0 +1,14 @@
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\WSAFIPFE.dll
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\Google.GData.Client.dll
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.Form1.resources
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\Guty\Desktop\Factura\Facturacion\Facturacion\obj\Debug\Facturacion.Form2.resources
